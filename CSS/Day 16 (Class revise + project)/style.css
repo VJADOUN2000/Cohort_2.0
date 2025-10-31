@@ -1,0 +1,16 @@
+
+.body{
+    perspective: 300px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-image: url(https://stock.adobe.com/in/images/portrait-of-male-programmer-in-office/369198116);
+    background-size: cover;
+}
+
+/* .box:hover{
+    background-color: green;
+    transform: rotate(90deg) scale(1.5);
+
+} */
