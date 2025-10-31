@@ -18,7 +18,7 @@ This repo contains course files, examples, and small projects used during the Co
 2. Open `index.html` in your browser to view demos.
 3. Edit files locally, then add, commit, and push changes:
    - git add .
-   - git commit -m "Your message"
+   - git commit -m "started learning JS"
    - git push
 
 ## Notes
@@ -31,3 +31,4 @@ Add a LICENSE file if you want to specify reuse permissions. Common choices: MIT
 Repo owner: @VJADOUN2000
 
 Happy coding!
+
